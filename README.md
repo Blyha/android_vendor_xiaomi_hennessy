@@ -5,5 +5,8 @@
   - Kernel source: Not released yet
 
 ### Credits (Sort by alphabetical order):
+  - lokjianming
   - nofearnohappy
   - The CyanogenMod Team
+  - rscc
+
